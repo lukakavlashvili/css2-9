@@ -1,0 +1,191 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.fullconteiner {
+  background: #e8eeff;
+  padding: 96px;
+  width: 1604px;
+  height: 2322px;
+  margin: 64px auto 154px;
+}
+
+/* .fullspan {
+  text-align: center;
+} */
+
+.Beautiful {
+  color: #181d27;
+  font-size: 72px;
+  font-weight: 600;
+  width: 750px;
+  margin: 0 auto;
+}
+
+.analytics {
+  color: #05f;
+  font-size: 72px;
+  font-weight: 600;
+}
+
+.smarter {
+  color: #6941c6;
+  font-size: 72px;
+  font-weight: 600;
+  text-decoration-line: underline;
+}
+
+.Powerful {
+  color: #535862;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 24px;
+  width: 768px;
+  margin: 24px auto;
+}
+
+.image {
+  width: 1200px;
+  margin: 64px auto;
+}
+
+.card {
+  height: 210px;
+  max-width: 417px;
+  display: inline-block;
+  border-radius: 8px;
+  background: #fff;
+  padding: 16px;
+  margin-left: 32px;
+}
+
+.svg {
+  max-width: ;
+  width: 48px;
+  height: 48px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #e9eaeb;
+
+  background: #fff;
+}
+
+.Share {
+  color: #181d27;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.team {
+  color: #535862;
+  font-size: 16px;
+  font-weight: 400;
+  width: 364px;
+  text-align: center;
+  margin-top: 8px;
+}
+
+#cardd {
+  margin-left: 0;
+}
+
+.blue {
+  max-width: 1216px;
+  border-radius: 24px;
+  background: #53389e;
+  
+  margin: 64px auto;
+  vertical-align: middle;
+}
+
+.Give {
+  color: #fff;
+  max-width: 608px;
+  font-size: 36px;
+  margin-top: 64px;
+  text-align: left;
+}
+
+.Join {
+  color: #e9d7fe;
+  font-weight: 400;
+  font-size: 20px;
+  max-width: 608px;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.button {
+  padding: 12px 18px;
+  border-radius: 8px;
+  border: 1px solid #d5d7da;
+  background: #fff;
+  max-width: 128px;
+  height: 48px;
+  color: #414651;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: left;
+  margin-top: 48px;
+}
+
+.fullbutton {
+  display: inline-block;
+}
+
+.button2 {
+  padding: 12px 18px;
+  border-radius: 8px;
+  border: 2px solid #FFF;
+  background: #7F56D9;
+  color: #FFF;
+  font-size: 16px;
+  width: 129px;
+  height: 48px;
+}
+
+.textalign {
+  text-align: center;
+}
+
+.block {
+  max-width: 400px;
+  display: inline-block;
+}
+
+.lastcard {
+  max-width: 200px;
+  display: inline-block;
+}
+
+.margin {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.lastimage {
+  max-width: 480px;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 24px;
+  margin-left: 268px;
+}
+
+.over {
+  max-width: 400px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 64px;
+}
+
+.max {
+  max-width: 400px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
